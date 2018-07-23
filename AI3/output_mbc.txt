@@ -1,0 +1,8 @@
+NB, CountVectorizer + Lower case + Stemming, 0.90059, 0.87663, 0.88326
+NB, CountVectorizer + Lower case + Stop_words, 0.8991, 0.8779, 0.88404
+NB, CountVectorizer + Lower case + Stop_words + Alpha=0.01, 0.91768, 0.91075, 0.9135
+NB, CountVectorizer + Lower case + Stop_words + Alpha=0.001 + Stemming, 0.92225, 0.91675, 0.91902
+NB, TfidfVectorizer + Lower case + Stop_words + Stemming, 0.89506, 0.77185, 0.76852
+NB, TfidfVectorizer + Lower case + Stemming + Alpha=0.1, 0.90535, 0.84617, 0.85613
+NB, TfidfVectorizer + Lower case + Stop_words + Alpha=0.01, 0.9151, 0.90147, 0.90611
+NB, TfidfVectorizer + Lower case + Stop_words + Alpha=0.001 + Stemming, 0.92415, 0.91599, 0.9191
